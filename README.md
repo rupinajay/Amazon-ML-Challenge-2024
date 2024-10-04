@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ML Challenge Problem Statement
 
 ## Feature Extraction from Images
@@ -139,3 +140,6 @@ entity_unit_map = {
   }
 }
 ```
+=======
+# Amazon-ML-Challenge-2024
+>>>>>>> 487db15d23614cc476064711b1768e60f2497fdb
